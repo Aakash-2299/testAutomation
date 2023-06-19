@@ -1,0 +1,5 @@
+# Created at 2023-06-18T22:29:00.030
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Appium_workspace\BDDFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
