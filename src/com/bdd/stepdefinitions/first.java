@@ -14,5 +14,14 @@ public class first {
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new java.util.Date());
 		File f = new File("D:/Appium_workspace/BDDFramework/sample"+timeStamp);
 		f.mkdir();
+		//============
+//		int x=400;
+//		int y=x;
+//		--x;
+//		System.out.println(x);
+//		x++;
+//		System.out.println(x==y);
+////		System.out.println(x.equals());
+				
 	}
 }
